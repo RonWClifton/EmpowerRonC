@@ -68,7 +68,7 @@ namespace EmpowerRonC_1
 		/// <param name="engine">Link with SLAutomation process.</param>
 		public void Run(IEngine engine)
 		{
-			engine.GenerateInformation("Hello Ron's World");
+			engine.GenerateInformation("Hello Ron's World!!!!")
 		///  Changes 230516
 		}
 	}
